@@ -2,7 +2,7 @@
 
 Face super resolution based on ESRGAN 
 
-##overview
+## overview
 
 I've used the esrgan technique to transform a low-quality image into a high-quality image.
 
